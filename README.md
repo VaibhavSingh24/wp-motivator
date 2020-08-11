@@ -1,0 +1,1 @@
+Here is a simple Wordpress Plugin that will keep you motivated.
